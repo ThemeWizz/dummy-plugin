@@ -1,14 +1,14 @@
 === Dummy Plugin ===
-Contributors: frogerme
-Donate link: https://froger.me
+Contributors: Themewizz
+Donate link: https://themewizz.com
 Tags: dummy, other dummy
-Requires at least: 4.9.8
-Tested up to: 4.9.8
-Requires PHP: 7.0
+Requires at least: 6.5.3
+Tested up to:  6.5.3
+Requires PHP: 8.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Empty plugin to demonstrate the WP Package Updater.
+Empty plugin to demonstrate the TWZ Update Server.
 
 == Description ==
 
