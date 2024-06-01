@@ -3,7 +3,7 @@
 Plugin Name: Dummy Plugin
 Plugin URI: https://themewizz.com/
 Description: Empty plugin to demonstrate the TWZ Update Server.
-Version: 1.5.15
+Version: 1.5.17
 Author: Steven Wagner
 Author URI: https://themewizz.com/
 Icon1x: https://raw.githubusercontent.com/ThemeWizz/images/main/icon-128x128.png
